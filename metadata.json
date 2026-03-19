@@ -1,0 +1,8 @@
+{
+  "name": "Secure Relay Video Call",
+  "description": "A secure video calling application using H.264 and E2EE relay.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
